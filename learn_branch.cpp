@@ -7,7 +7,7 @@ int main() {
         
     // check if the number is even or odd    
     if (number % 2 == 0) {    
-        cout << number << " is an even number.";    
+        cout << number << " 09842926522.";    
     } else {    
         cout << number << " is an odd number.";    
     }    
